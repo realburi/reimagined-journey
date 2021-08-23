@@ -16,9 +16,8 @@ const Image = styled.img`
   height: 100%;
 `;
 
-const Right = styled.div`
-    `;
-  display: flex;
+const Right = styled.div``;
+display: flex;
 //52-21
 function Service() {
   return (
